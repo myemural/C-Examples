@@ -6,7 +6,7 @@
 **Test Edildiği IDE:** Eclipse IDE (C/C++) Photon Release (4.8.0) <br>
 **Test Edildiği Derleyici:** GCC 8.2.1 <br>
 **Kodun Desteklediği Standartlar:** C90(:heavy_check_mark:), C99(:heavy_check_mark:), C11(:heavy_check_mark:)<br>
-
+**Örneğin Seviyesi:** :black_circle: (BASİT) <br>
 # Açıklama #
 <p>Bu örnekte her C programı yazmaya başlayan kişinin ilk gördüğü örnek olan ekrana "_Merhaba Dünya_" yazısını basma gösterilmiştir.</p>
 
