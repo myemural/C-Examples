@@ -8,7 +8,7 @@
 **Kodun Desteklediği Standartlar:** C90(:heavy_check_mark:), C99(:heavy_check_mark:), C11(:heavy_check_mark:)<br>
 **Örneğin Seviyesi:** :black_circle: (BASİT) <br>
 # Açıklama #
-<p>Bu örnekte her C programı yazmaya başlayan kişinin ilk gördüğü örnek olan ekrana "_Merhaba Dünya_" yazısını basma gösterilmiştir.</p>
+<p>Bu örnekte her C programı yazmaya başlayan kişinin ilk gördüğü örnek olan ekrana "<em>Merhaba Dünya</em>" yazısını basma gösterilmiştir.</p>
 
 # Notlar #
 - 
