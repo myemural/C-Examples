@@ -10,6 +10,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1003">A1003 : Sembolik Sabitler (Symbolic Constants)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1004">A1004 : Rakamsal Sabitler</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1005">A1005 : C'de Tür Dönüşümü 1</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1006">A1006 : C'de Tür Dönüşümü 2</a>
 
 # Orta Seviye Örnekler
 - 
