@@ -14,6 +14,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1007">A1007 : Fonksiyon Çağırmalarında Tür Dönüşümü</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : Aritmetik Operatörler</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : Arttırma ve Azaltma Operatörleri</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Atama ve Virgül Operatörleri</a>
 
 # Orta Seviye Örnekler
 - 
