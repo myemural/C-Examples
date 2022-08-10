@@ -16,6 +16,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : Arttırma ve Azaltma Operatörleri</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Atama ve Virgül Operatörleri</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : sizeof Operatörü</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri</a>
 
 # Orta Seviye Örnekler
 - 
