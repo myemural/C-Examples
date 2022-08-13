@@ -19,6 +19,8 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : İki Tamsayının Toplamı</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : getchar Fonksiyonu</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : putchar Fonksiyonu</a>
 
 # Orta Seviye Örnekler
 - 
