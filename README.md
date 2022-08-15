@@ -24,6 +24,11 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1017">A1017 : isalpha Fonksiyonu</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1018">A1018 : isdigit Fonksiyonu</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1019">A1019 : islower Fonksiyonu</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1020">A1020 : tolower Fonksiyonu</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1021">A1021 : Karşılaştırma Operatörleri</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1022">A1022 : Mantıksal Operatörler</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1023">A1023 : Dairenin Alanı ve Çevresi (Area and Circumference of Circle)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1024">A1024 : Rakam veya Değil (Digit or Not)</a>
 
 # Orta Seviye Örnekler
 - 
