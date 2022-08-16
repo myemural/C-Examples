@@ -29,6 +29,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1022">A1022 : Mantıksal Operatörler</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1023">A1023 : Dairenin Alanı ve Çevresi (Area and Circumference of Circle)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1024">A1024 : Rakam veya Değil (Digit or Not)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1025">A1025 : Koşul Operatörü</a>
 
 # Orta Seviye Örnekler
 - 
