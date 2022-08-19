@@ -32,6 +32,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1025">A1025 : Koşul Operatörü</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1026">A1026 : While Örneği 1</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1027">A1027 : While Örneği 2</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1028">A1028 : While Örneği 3</a>
 
 # Orta Seviye Örnekler
 - 
