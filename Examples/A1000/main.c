@@ -1,12 +1,17 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: İlk C Programı
-*/
-#include<stdio.h> /* Temel giriş çıkış fonksiyonları için başlık dosyasıdır. */
+/** @file main.c
+ *  @brief First C Program
+ *
+ *  This program prints "Hello World" to the screen.
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
-int main() /* Ana fonksiyondur. */
+#include <stdio.h> /* This file is required for basic input/output functionalities. */
+
+int main() /* Main function which program will start. */
 {
-	printf("Merhaba Dunya"); /* Ekrana yazı yazar. */
+	printf("Hello World"); /* Prints to the screen. */
+
 	return 0;
 }
