@@ -1,8 +1,8 @@
-**Örnek Adı:** Değişken Tanımlama <br>
+**Örnek Adı:** Farklı Türlerdeki Değişkenleri Ekrana Basma (Printing Different Types of Variables) <br>
 **Yazan:** Mustafa Yemural <br>
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #
-<p>Bu örnekte C'de temel veri tiplerinde nasıl değişken tanımlayabileceğimiz ve farklı türdeki değişkenleri nasıl ekrana formatlı olarak yazdırabileceğimiz gösterilmiştir.</p>
+<p>TBD</p>
 
 # Notlar #
-- 
+- TBD

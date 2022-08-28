@@ -5,7 +5,7 @@
 
 # Basit Seviye Örnekler
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1000">A1000 : İlk C Programı (First C Program)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1001">A1001 : Değişken Tanımlama (Defining Variable)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1001">A1001 : Farklı Türlerdeki Değişkenleri Ekrana Basma (Printing Different Types of Variables)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1002">A1002 : Temel Veri Türleri (Basic Data Types)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1003">A1003 : Sembolik Sabitler (Symbolic Constants)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1004">A1004 : Rakamsal Sabitler</a>
