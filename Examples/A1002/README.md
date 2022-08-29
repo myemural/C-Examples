@@ -1,8 +1,8 @@
-**Örnek Adı:** Temel Veri Türleri (Basic Data Types) <br>
+**Örnek Adı:** Bir Küpün Hacmi ve Yüzey Alanı (The Volume and Surface Area of a Cube) <br>
 **Yazan:** Mustafa Yemural <br>
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #
-<p>Bu örnekte C'de temel veri türleri gösterilmiş ve türlerin sınır bilgileri verilmiştir.</p>
+<p>TBD</p>
 
 # Notlar #
-- 
+- TBD
