@@ -1,30 +1,33 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: Rakamsal Özellikler
-*/
+/** @file main.c
+ *  @brief Literals
+ *
+ *  This shows working mechanism of number literals.
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
 
 int main()
 {
-    long a=450L;
+    long a=450L; /* long */
 
     char b='A';
     char c='\n';
     char d='\x41';
     char e='\123';
 
-    int f=3456U;
-    long g=30578LU;
+    int f=3456U; /* unsigned int */
+    long g=30578LU; /* unsigned long */
 
-    int j = 0113; // 8'lik
-    int k = 0x4b; // 16'lık
+    int j = 0113; /* Base 8 */
+    int k = 0x4b; /* Base 16 */
 
     float x=1.6F;
     double y=25.6;
 
-    float z=1.34E-2f;
+    float z=1.34E-2f; /* Scientific notation */
 
     printf("%ld \n", a);
     printf("%c \n", b);
