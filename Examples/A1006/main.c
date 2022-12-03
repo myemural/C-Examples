@@ -1,8 +1,11 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: Tür Dönüşümü Örneği 2
-*/
+/** @file main.c
+ *  @brief Type Conversion Example 2
+ *
+ *  This is an example of type conversion with no information loss.
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
 
@@ -11,9 +14,9 @@ int main()
       double leftx;
       int righty = 5;
 
-      leftx = righty; // Sağ taraftaki tür sol taraftaki türe dönüştürülür. Küçük olan tür, büyük olan türe dönüştürülürken bilgi kaybı olmaz.
+      leftx = righty; /* Right side convert to left side. There is no loss of information here. */
       
-      printf("%f\n",leftx); // Bu tür dönüşümlere "Atama Tür Dönüşümleri" denir.
+      printf("%f\n", leftx);
       
       return 0;
 }
