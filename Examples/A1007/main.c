@@ -11,14 +11,14 @@
 
 double mult(double x, double y)
 {
-       return x*y;
+       return x * y;
 }
 
 int main()
 {
       int a = 6, b = 5;
       
-      printf("%f\n", mult(a,b)); /* int converted to double */
+      printf("%f\n", mult(a, b)); /* int converted to double */
       
       return 0;
 }
