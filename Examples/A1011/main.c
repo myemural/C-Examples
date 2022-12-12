@@ -1,8 +1,11 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: sizeof Operatörü
-*/
+/** @file main.c
+ *  @brief sizeof Operator
+ *
+ *  sizeof Operator
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
 
@@ -10,8 +13,8 @@ int main()
 {
       int x = 2;
 
-      printf("%d\n", sizeof(x)); // İsim ile çağırma
-      printf("%d\n", sizeof(int)); // Tür ile çağırma
-      // Bu operatör türün bellekte kaç byte yer kapladığını öğrenir.
+      printf("%d\n", sizeof(x)); /* Call with name */
+      printf("%d\n", sizeof(int)); /* Call with type */
+      
       return 0;
 }
