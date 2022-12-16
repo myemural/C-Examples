@@ -1,8 +1,11 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: getchar Fonksiyonu
-*/
+/** @file main.c
+ *  @brief getchar Function
+ *
+ *  getchar Function
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include <stdio.h>
 
@@ -10,7 +13,7 @@ int main()
 {
 	char ch;
 
-	ch = getchar(); // Klavyeden bir harf alır ve Enter tuşuna ihtiyaç duyar. Geri dönüş değeri, alınan karakterin ASCII kodudur.
+	ch = getchar();
 	printf("\nKarakter olarak ch = %c\nASCII numarasi ch = %d\n", ch, ch);
 
 	return 0;
