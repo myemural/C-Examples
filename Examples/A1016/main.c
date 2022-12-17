@@ -1,8 +1,11 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: putchar Fonksiyonu
-*/
+/** @file main.c
+ *  @brief putchar Function
+ *
+ *  putchar Function
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include <stdio.h>
 
@@ -11,7 +14,7 @@ int main()
     char ch;
 
 	ch = getchar();
-	putchar (ch); // Parametresi olan karakteri ekranda imlecin bulunduðu yere yazar.
+	putchar(ch);
 	
 	return 0;
 }
