@@ -1,23 +1,27 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: isdigit Fonksiyonu
-*/
+/** @file main.c
+ *  @brief isdigit Function
+ *
+ *  isdigit Function
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
 #include<ctype.h>
 
 main()
 {
-      char ch;
+    char ch;
       
-      printf("Bir karakter girin: ");
-      ch=getchar();
+    printf("Bir karakter girin: ");
+    ch = getchar();
       
-      if(isdigit(ch)) // Girilen karakterin bir rakam olup-olmadýðýný sorgular. Eðer bir rakam ise "Doðru", rakam deðil ise "Yanlýþ" döndürür.
-      {printf("\nBu bir rakamdir.\n");}
-      else
-      {printf("\nBu bir rakam degildir.\n");}
+    if(isdigit(ch)) {
+        printf("\nBu bir rakamdir.\n");
+    } else {
+        printf("\nBu bir rakam degildir.\n");
+    }
       
-      return 0;
+    return 0;
 }
