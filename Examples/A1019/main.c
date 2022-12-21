@@ -1,23 +1,30 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: islower Fonksiyonu
-*/
+/** @file main.c
+ *  @brief islower Function
+ *
+ *  islower Function
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
-#include<ctype.h> // Bazý standart C fonksiyonlarýný içerir.
+#include<ctype.h>
 
 main()
 {
       char ch;
       
       printf("Bir harf girin: ");
-      ch=getchar(); // Karakter giriþi...
+      ch = getchar();
       
-      if(islower(ch)) // "islower" fonksiyonu girilen karakterin büyük harf mi küçük harf mi olduðunu kontrol eden standart bir C fonksiyonudur. Eðer küçük harf ise 1, büyük harf ise 0 deðerini döndürür.
-      {printf("\nKucuk harf...\n");}
+      if(islower(ch))
+      {
+            printf("\nKucuk harf...\n");
+      }
       else
-      {printf("\nBuyuk harf...\n");}
+      {
+            printf("\nBuyuk harf...\n");
+      }
       
       return 0;
 }
