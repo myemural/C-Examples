@@ -1,25 +1,25 @@
-/*
-* Author: Mustafa Yemural
-* Date: 06/02/2017
-* Description: Sonsuz Döngü
-*/
+/** @file main.c
+ *  @brief Infinite Loop
+ *
+ *  Infinite Loop
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
 
 int main()
 {
-    int i=0;
+    int i = 0;
     
-    while(1) // Sonsuz döngüyü belirtir.
-    {
-    printf("%d\n",i);
-    i++;
+    while (1) {
+        printf("%d\n", i);
+        i++;
     
-    if(i==10)
-    {
-        break; // Döngüden çýkýþý saðlar.
-    }
-            
+        if (i == 10) {
+            break;
+        }
     }
     
     return 0;
