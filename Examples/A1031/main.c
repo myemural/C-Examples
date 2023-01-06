@@ -1,8 +1,11 @@
-/*
-* Author: Mustafa Yemural
-* Date: 13/02/2017
-* Description: Bir Sayının Rakamlarının Toplamı(Add Digits of a Number)
-*/
+/** @file main.c
+ *  @brief Sum of the Digits of a Number
+ *
+ *  Sum of the Digits of a Number
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
 #include<ctype.h>
@@ -21,9 +24,9 @@ int main(int argc, char *argv[])
 		scanf("%s",number);
 
 		i=0;
-		while(number[i] != '\0') // String'in sonuna kadar tara.
+		while(number[i] != '\0')
 		{
-			if(isdigit(number[i])) // Karakterlerin rakam olup olmadığını kontrol et.
+			if(isdigit(number[i]))
 				flag = TRUE;
 			else
 			{
@@ -32,12 +35,12 @@ int main(int argc, char *argv[])
 			}
 			i++;
 		}
-	}while(flag == FALSE); // Doğru girdi alana kadar sor.
+	}while(flag == FALSE);
 
 	i=0;
-	while(number[i] != '\0') // String'in sonuna kadar tara.
+	while(number[i] != '\0')
 	{
-		sum += (int)number[i] - 48; // Her bir karakteri önce int türüne çevirip daha sonra rakama dönüştürürüz.
+		sum += (int)number[i] - 48;
 		i++;
 	}
 
