@@ -1,8 +1,11 @@
-/*
-* Author: Mustafa Yemural
-* Date: 13/02/2017
-* Description: İki Matrisin Toplamı ve Farkı (Addition and Subtraction of Two Matrices)
-*/
+/** @file main.c
+ *  @brief Addition and Subtractşon of Two Matrices
+ *
+ *  Addition and Subtractşon of Two Matrices
+ *
+ *  @author Mustafa Yemural (myemural)
+ *  @date 06/02/2017
+ */
 
 #include<stdio.h>
 
@@ -19,17 +22,17 @@ void function(int f[][MATRIX_SIZE], int s[][MATRIX_SIZE], Func type)
 	{
 		for(j=0; j<MATRIX_SIZE; j++)
 		{
-			if(type == SUM) // Sum and display
+			if(type == SUM)
 			{
 				result[i][j] = f[i][j] + s[i][j];
 				printf("%d ", result[i][j]);
 			}
-			else if(type == SUB) // Subtract and display
+			else if(type == SUB)
 			{
 				result[i][j] = f[i][j] - s[i][j];
 				printf("%d ", result[i][j]);
 			}
-			else // Only display first matrix;
+			else
 			{
 				printf("%d ", f[i][j]);
 			}
