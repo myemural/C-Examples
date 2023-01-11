@@ -12,9 +12,9 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1005">A1005 : C'de Tür Dönüşümü 1 (Type Conversion Example 1)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1006">A1006 : C'de Tür Dönüşümü 2 (Type Conversion Example 2)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1007">A1007 : Fonksiyon Çağırmalarında Tür Dönüşümü (Type Conversion on Function Calls)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : Aritmetik Operatörler</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : Arttırma ve Azaltma Operatörleri</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Atama ve Virgül Operatörleri</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : Aritmetik Operatörler (Arithmetic Operators)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : Arttırma ve Azaltma Operatörleri (Increasing and Decreasing Operators)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Atama ve Virgül Operatörleri (Assignment and Comma Operators)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : sizeof Operatörü</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı</a>
