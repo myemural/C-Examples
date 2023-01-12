@@ -15,9 +15,9 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : Aritmetik Operatörler (Arithmetic Operators)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : Arttırma ve Azaltma Operatörleri (Increasing and Decreasing Operators)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Atama ve Virgül Operatörleri (Assignment and Comma Operators)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : sizeof Operatörü</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : sizeof Operatörü (sizeof Operator)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri (printf Format Specifiers)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı (ASCII Value of a Character)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : İki Tamsayının Toplamı</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : getchar Fonksiyonu</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : putchar Fonksiyonu</a>
