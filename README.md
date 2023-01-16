@@ -33,8 +33,8 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1026">A1026 : while Örneği 1 (while Example 1)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1027">A1027 : while Örneği 2 (while Example 2)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1028">A1028 : while Örneği 3 (while Example 3)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1029">A1029 : Sonsuz Döngü</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1030">A1030 : Do...While Döngüsü</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1029">A1029 : Sonsuz Döngü (Infinite Loop)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1030">A1030 : Do...While Örneği (do...while Example)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1031">A1031 : Bir Sayının Rakamları Toplamı</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1032">A1032 : İki Matrisin Toplamı ve Farkı</a>
 
