@@ -7,7 +7,7 @@
  *  @date 06/02/2017
  */
 
-#include <stdio.h> /* This file is required for basic input/output functionalities. */
+#include <stdio.h> /* This header is required for basic input/output functionalities. */
 
 int main() /* Main function which program will start. */
 {
