@@ -2,7 +2,10 @@
 **Yazan:** Mustafa Yemural <br>
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #
-<p>Bu örnekte her C'de yer alan rakamsal sabitler gösterilmiştir.</p>
+<p>
+Area of a circle formula:<br>
+A = π * r<sup>2</sup><br>
+</p>
 
 # Notlar #
-- 
+- Bu örneği düzgün anlayabilmek için [Temel C Eğitiminin](https://www.mustafayemural.com/temel-c-egitimi/) "[Sabitler, Rakamsal Bilgiler ve sizeof Operatörü](https://www.mustafayemural.com/c-my000007/)" kısmına kadar okunması tavsiye edilir.
