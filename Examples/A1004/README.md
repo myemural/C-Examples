@@ -1,4 +1,4 @@
-**Örnek Adı:** Rakamsal Sabitler <br>
+**Örnek Adı:** Bir Dairenin Alanını Bulma <br>
 **Yazan:** Mustafa Yemural <br>
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #

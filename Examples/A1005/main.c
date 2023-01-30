@@ -1,7 +1,8 @@
 /** @file main.c
- *  @brief Type Conversion Example 1
+ *  @brief Check Whether a Number is Positive or Negative or Zero
  *
- *  This shows promotion.
+ *  This program checks whether a number is positive, negative or zero 
+ *  and uses comparison operators for this.
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
@@ -9,14 +10,20 @@
 
 #include<stdio.h>
 
-main()
+int main()
 {
-      int a = 5;
-      double b = 7.2, sonuc;
+    int value;
 
-      sonuc = a + b; /* Little type is converted into big type and this called promotion. */
+    printf("Put an integer value: ");
+    scanf("%d", &value);
 
-      printf("%f\n", sonuc);
+    if (value < 0) {
+        printf("%d is negative\n", value);
+    } else if (value > 0) {
+        printf("%d is positive\n", value);
+    } else if (value == 0) {
+        printf("%d is zero\n", value);
+    }
 
-      return 0;
+    return 0;
 }

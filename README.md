@@ -8,8 +8,8 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1001">A1001 : Farklı Türlerdeki Değişkenleri Ekrana Basma (Printing Different Types of Variables)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1002">A1002 : Bir Küpün Hacmi ve Yüzey Alanı (The Volume and Surface Area of a Cube)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1003">A1003 : Sıcaklık Dönüştürücü (Temperature Convertor)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1004">A1004 : Rakamsal Sabitler (Literals)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1005">A1005 : C'de Tür Dönüşümü 1 (Type Conversion Example 1)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1004">A1004 : Bir Dairenin Alanını Bulma (Finding Area of a Circle)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1005">A1005 : Bir Sayının Pozitif, Negatif veya Sıfır Olup Olmadığını Kontrol Etmek (Check Whether a Number is Positive or Negative or Zero)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1006">A1006 : C'de Tür Dönüşümü 2 (Type Conversion Example 2)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1007">A1007 : Fonksiyon Çağırmalarında Tür Dönüşümü (Type Conversion on Function Calls)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : Aritmetik Operatörler (Arithmetic Operators)</a>

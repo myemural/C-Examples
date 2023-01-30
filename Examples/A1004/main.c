@@ -1,5 +1,5 @@
 /** @file main.c
- *  @brief Area of a Circle
+ *  @brief Finding Area of a Circle
  *
  *  This example shows how to calculate area of a circle with
  *  given radius value. In this example you can see how we can
