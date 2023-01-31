@@ -3,9 +3,9 @@
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #
 <p>
-Celsius to Kelvin Formula:<br>
+Celsius'tan Kelvin'e Dönüşüm Formülü:<br>
 K = C + 273.15<br>
-Celsius to Fahrenheit Formula:<br>
+Celsius'tan Fahrenheit'a Dönüşüm Formülü:<br>
 F = (C * (9/5)) + 32<br>
 </p>
 

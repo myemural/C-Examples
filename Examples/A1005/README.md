@@ -1,4 +1,4 @@
-**Örnek Adı:** Bir Sayının Pozitif, Negatif veya Sıfır Olup Olmadığını Kontrol Etmek<br>
+**Örnek Adı:** Bir Sayının Pozitif, Negatif veya Sıfır Olup Olmadığını Kontrol Etmek (Check Whether a Number is Positive or Negative or Zero)<br>
 **Yazan:** Mustafa Yemural <br>
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #

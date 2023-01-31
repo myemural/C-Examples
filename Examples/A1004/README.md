@@ -1,9 +1,9 @@
-**Örnek Adı:** Bir Dairenin Alanını Bulma <br>
+**Örnek Adı:** Bir Dairenin Alanını Bulma (Finding Area of a Circle) <br>
 **Yazan:** Mustafa Yemural <br>
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #
 <p>
-Area of a circle formula:<br>
+Bir dairenin alanını bulma formülü:<br>
 A = π * r<sup>2</sup><br>
 </p>
 

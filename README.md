@@ -10,8 +10,8 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1003">A1003 : Sıcaklık Dönüştürücü (Temperature Convertor)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1004">A1004 : Bir Dairenin Alanını Bulma (Finding Area of a Circle)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1005">A1005 : Bir Sayının Pozitif, Negatif veya Sıfır Olup Olmadığını Kontrol Etmek (Check Whether a Number is Positive or Negative or Zero)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1006">A1006 : C'de Tür Dönüşümü 2 (Type Conversion Example 2)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1007">A1007 : Fonksiyon Çağırmalarında Tür Dönüşümü (Type Conversion on Function Calls)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1006">A1006 : Bir Sayının 3 ve 5 ile Bölünebilirliğini Kontrol Etme (Check the Number is Divisible by 3 and 5)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1007">A1007 : Artık Yıl Kontrol Etme (Check Leap Year)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : Aritmetik Operatörler (Arithmetic Operators)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : Arttırma ve Azaltma Operatörleri (Increasing and Decreasing Operators)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Atama ve Virgül Operatörleri (Assignment and Comma Operators)</a>
