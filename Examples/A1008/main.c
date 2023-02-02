@@ -1,7 +1,8 @@
 /** @file main.c
- *  @brief Arithmetic Operators
+ *  @brief Sum of Even Numbers from 0 to N
  *
- *  Arithmetic Operators
+ *  It is a program that gives the sum of even numbers 
+ *  from 0 to N (including N) received from the user.
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
@@ -11,24 +12,24 @@
 
 int main()
 {
-    int x = 10;
-    int y = x + 2;
-    
-    printf("%d\n", y);
-    
-    int a = -5;
-    int b = a - 5;
-    
-    printf("%d\n", b);
-    
-    int c = 15 % 4;
-    
-    printf("%d\n", c);
-    
-    short d = 3;
-    d++;
-    
-    printf("%d\n", d);
+    int N;
+    int counter = 0;
+    unsigned long sum = 0;
+
+    printf("Give a positive number: ");
+    scanf("%d", &N);
+
+    counter = N;
+
+    while (counter != 0) {
+        if (counter % 2 == 0) {
+            sum += counter;
+        }
+
+        counter--;
+    }
+
+    printf("Sum of even numbers from 0 to %d is: %lu", N, sum);
     
     return 0;      
 }
