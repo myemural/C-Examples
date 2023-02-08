@@ -14,7 +14,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1007">A1007 : Artık Yıl Kontrol Etme (Check Leap Year)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : 0'dan N'e Kadar Olan Çift Sayıların Toplamı (Sum of Even Numbers from 0 to N)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Atama ve Virgül Operatörleri (Assignment and Comma Operators)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : sizeof Operatörü (sizeof Operator)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri (printf Format Specifiers)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı (ASCII Value of a Character)</a>
