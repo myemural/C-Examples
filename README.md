@@ -15,7 +15,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1008">A1008 : 0'dan N'e Kadar Olan Çift Sayıların Toplamı (Sum of Even Numbers from 0 to N)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : sizeof Operatörü (sizeof Operator)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri (printf Format Specifiers)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı (ASCII Value of a Character)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : İki Tamsayının Toplamı (Sum of Two Integers)</a>
