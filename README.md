@@ -16,7 +16,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : printf Format Belirteçleri (printf Format Specifiers)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı (ASCII Value of a Character)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : İki Tamsayının Toplamı (Sum of Two Integers)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : getchar Fonksiyonu (getchar Function)</a>
