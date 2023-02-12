@@ -17,8 +17,8 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Karakterin ASCII Karşılığı (ASCII Value of a Character)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : İki Tamsayının Toplamı (Sum of Two Integers)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : getchar Fonksiyonu (getchar Function)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : putchar Fonksiyonu (putchar Function)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1017">A1017 : isalpha Fonksiyonu (isalpha Function)</a>
