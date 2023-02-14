@@ -20,7 +20,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : putchar Fonksiyonu (putchar Function)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1017">A1017 : isalpha Fonksiyonu (isalpha Function)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1018">A1018 : isdigit Fonksiyonu (isdigit Function)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1019">A1019 : islower Fonksiyonu (islower Function)</a>
