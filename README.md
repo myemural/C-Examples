@@ -22,7 +22,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1017">A1017 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1018">A1018 : isdigit Fonksiyonu (isdigit Function)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1018">A1018 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1019">A1019 : islower Fonksiyonu (islower Function)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1020">A1020 : tolower Fonksiyonu (tolower Function)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1021">A1021 : Karşılaştırma Operatörleri (Comparison Operators)</a>
