@@ -28,7 +28,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1021">A1021 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1022">A1022 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1023">A1023 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1024">A1024 : Rakam veya Değil (Digit or Not)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1024">A1024 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1025">A1025 : Koşul Operatörü (Conditional Operator)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1026">A1026 : while Örneği 1 (while Example 1)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1027">A1027 : while Örneği 2 (while Example 2)</a>
