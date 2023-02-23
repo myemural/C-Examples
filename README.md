@@ -30,13 +30,13 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1023">A1023 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1024">A1024 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1025">A1025 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1026">A1026 : while Örneği 1 (while Example 1)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1027">A1027 : while Örneği 2 (while Example 2)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1028">A1028 : while Örneği 3 (while Example 3)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1029">A1029 : Sonsuz Döngü (Infinite Loop)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1030">A1030 : Do...While Örneği (do...while Example)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1031">A1031 : Bir Sayının Rakamları Toplamı (Sum of the Digits of a Number)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1032">A1032 : İki Matrisin Toplamı ve Farkı (Addition and Subtractşon of Two Matrices)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1026">A1026 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1027">A1027 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1028">A1028 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1029">A1029 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1030">A1030 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1031">A1031 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1032">A1032 : TBD</a>
 
 # Orta Seviye Örnekler
 - 
