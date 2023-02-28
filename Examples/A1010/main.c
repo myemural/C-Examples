@@ -1,27 +1,38 @@
 /** @file main.c
- *  @brief Assignment and Comma Operators
+ *  @brief Calculating the Average Grade of a Class
  *
- *  Assignment and Comma Operators
+ *  This program takes grade values from user and prints
+ *  average grade value to the screen.
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
  */
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
-      int x = 3;
-      x *= 3;
+    int sum = 0;
+    int counter = 0;
+    
+    int grade;
+    printf("Enter grade (enter -1 for end): ");
+    scanf("%d", &grade);
 
-      int y, z;
+    while (grade != -1) {
+        sum += grade;
+        counter += 1;
 
-      z = 10;
+        printf("Enter grade (enter -1 for end): ");
+        scanf("%d", &grade);
+    }
 
-      y = (z + 5) * 2;
+    if (counter != 0) {
+        float average = (float)sum / counter;
+        printf("Average grade of the class: %.2f\n", average);
+    } else {
+        printf("No grade value entered!\n");
+    }
 
-      printf("%d\n", x);
-      printf("%d\n", y);
-
-      return 0;
+    return 0;
 }
