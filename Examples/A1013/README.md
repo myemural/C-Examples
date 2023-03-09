@@ -1,8 +1,8 @@
-**Örnek Adı:** Bir Karakterin ASCII Karşılığı <br>
+**Örnek Adı:** TBD <br>
 **Yazan:** Mustafa Yemural <br>
 **Örneğin Seviyesi:** :large_blue_circle: <br>
 # Açıklama #
-<p>Bu örnekte C'de bir karakterin ASCII karşılığını nasıl bulabileceğimiz gösterilmiştir.</p>
+<p>TBD</p>
 
 # Notlar #
 - 
