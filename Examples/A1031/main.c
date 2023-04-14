@@ -1,7 +1,7 @@
 /** @file main.c
- *  @brief Sum of the Digits of a Number
+ *  @brief TBD
  *
- *  Sum of the Digits of a Number
+ *  TBD
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
