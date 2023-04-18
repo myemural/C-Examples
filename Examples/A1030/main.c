@@ -1,7 +1,7 @@
 /** @file main.c
- *  @brief Do...While Example
+ *  @brief TBD
  *
- *  Do...While Example
+ *  TBD
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
