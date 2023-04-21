@@ -1,7 +1,7 @@
 /** @file main.c
- *  @brief while Example 2
+ *  @brief TBD
  *
- *  while Example 2
+ *  TBD
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
