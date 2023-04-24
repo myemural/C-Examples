@@ -1,20 +1,40 @@
 /** @file main.c
- *  @brief sizeof Operator
+ *  @brief Check Whether a Number is a Palindrome
  *
- *  sizeof Operator
+ *  This program takes a number from user and checks
+ *  whether this number is a palindrome or not.
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
  */
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
-      int x = 2;
+    int number, temp;
+    printf("Enter a number: ");
+    scanf("%d", &number);
+    temp = number;
 
-      printf("%d\n", sizeof(x)); /* Call with name */
-      printf("%d\n", sizeof(int)); /* Call with type */
+    // Reverse the number
+    int remained, reversed = 0;
+    while(number > 0)
+    {
+        remained = number % 10;
+        reversed = (reversed * 10) + remained;
+        number = number / 10;
+    }
+
+    // Check number is a palindrome
+    if(temp == reversed)
+    {
+        printf("The number %d is a palindrome!", temp);
+    }
+    else
+    {
+        printf("The number %d is not a palindrome!", temp);
+    }
       
-      return 0;
+    return 0;
 }
