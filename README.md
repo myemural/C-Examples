@@ -16,7 +16,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1009">A1009 : Bir Sayının Tam Çarpanlarını Bulma (Find All Factors of a Number)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1010">A1010 : Bir Sınıfın Not Ortalamasını Hesaplama (Calculating the Average Grade of a Class)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : Bir Sayının Palindrom Sayı Olup Olmadığını Kontrol Etme (Program to Check Whether a Number is a Palindrome)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : Bir Çarpım Tablosu Oluşturma (Generate a Multiplication Table)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : TBD</a>

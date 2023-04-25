@@ -1,7 +1,8 @@
 /** @file main.c
- *  @brief printf Format Specifiers
+ *  @brief Generate a Multiplication Table
  *
- *  printf Format Specifiers
+ *  This program prints multiplication table between
+ *  1 and 10 (inclusive) numbers.
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
@@ -9,23 +10,17 @@
 
 #include <stdio.h>
 
-main()
+int main()
 {
-    char a= 'A';
-    short b= 32000;
-    int c= 234;
-    long d= 2000000000;
-    float e= 1.34534;
-    double f= 12.124312;
-    long double g= -30.2134123412;
-    
-    printf("%c \n", a);
-    printf("%hd \n", b);
-    printf("%d \n", c);
-    printf("%ld \n", d);
-    printf("%f \n", e);
-    printf("%f \n", f);
-    printf("%lf \n", g);
+    printf("     1   2   3   4   5   6   7   8   9  10\n");
+    printf("   ---------------------------------------\n");
+    for (int i = 1; i <= 10; ++i) {
+        printf("%2d|", i);
+        for (int j = 1; j <= 10; ++j) {
+            printf("%3d ", i * j);
+        }
+        printf("\n");
+    }
     
     return 0;      
 }
