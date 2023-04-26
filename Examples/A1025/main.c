@@ -1,7 +1,7 @@
 /** @file main.c
- *  @brief Conditional Operator
+ *  @brief TBD
  *
- *  Conditional Operator
+ *  TBD
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
