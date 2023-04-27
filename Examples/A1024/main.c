@@ -1,7 +1,7 @@
 /** @file main.c
- *  @brief Digit or Not
+ *  @brief TBD
  *
- *  Digit or Not
+ *  TBD
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
