@@ -1,7 +1,7 @@
 /** @file main.c
- *  @brief Logical Operators
+ *  @brief TBD
  *
- *  Logical Operators
+ *  TBD
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
