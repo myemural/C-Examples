@@ -18,7 +18,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1011">A1011 : Bir Sayının Palindrom Sayı Olup Olmadığını Kontrol Etme (Program to Check Whether a Number is a Palindrome)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : Bir Çarpım Tablosu Oluşturma (Generate a Multiplication Table)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Sayının Armstrong Sayısı Olup Olmadığını Kontrol Etme (Check Whether a Number is an Armstrong Number)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : TBD</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : Bir Tam Sayının Tersini Bulma (Finding Reverse of an Integer)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : TBD</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1017">A1017 : TBD</a>

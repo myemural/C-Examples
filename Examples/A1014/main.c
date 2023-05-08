@@ -1,24 +1,29 @@
 /** @file main.c
- *  @brief Sum of Two Integers
+ *  @brief Finding Reverse of an Integer
  *
- *  Sum of Two Integers
+ *  This program gets a positive integer from user
+ * 	and prints its reverse to the screen.
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
  */
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
-	int number1;
-	int number2;
-	
-	printf("Enter first value: ");
-	scanf("%d", &number1);
-	
-	printf("\nEnter second value: ");
-	scanf("%d" ,&number2);
-	
-	printf("%d", (number1 + number2));
+    int number;
+    printf("Enter a positive integer: ");
+    scanf("%d", &number);
+
+    int reverse = 0;
+
+    for (int temp = number; temp > 0; temp /= 10) {
+        reverse *= 10;
+        reverse += temp % 10;
+    }
+
+    printf("Reverse of the number: %d", reverse);
+
+    return 0;
 }
