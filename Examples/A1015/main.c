@@ -1,7 +1,7 @@
 /** @file main.c
- *  @brief getchar Function
+ *  @brief TBD
  *
- *  getchar Function
+ *  TBD
  *
  *  @author Mustafa Yemural (myemural)
  *  @date 06/02/2017
