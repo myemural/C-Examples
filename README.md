@@ -19,24 +19,6 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1012">A1012 : Bir Çarpım Tablosu Oluşturma (Generate a Multiplication Table)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Sayının Armstrong Sayısı Olup Olmadığını Kontrol Etme (Check Whether a Number is an Armstrong Number)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : Bir Tam Sayının Tersini Bulma (Finding Reverse of an Integer)</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1017">A1017 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1018">A1018 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1019">A1019 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1020">A1020 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1021">A1021 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1022">A1022 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1023">A1023 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1024">A1024 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1025">A1025 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1026">A1026 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1027">A1027 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1028">A1028 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1029">A1029 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1030">A1030 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1031">A1031 : TBD</a>
-- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1032">A1032 : TBD</a>
 
 # Orta Seviye Örnekler
 - 
