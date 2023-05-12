@@ -1,7 +1,17 @@
 # Açıklamalar
-<p>Burada <a href="https://www.mustafayemural.com">Kişisel Bloğum</a>'da paylaşmış olduğum çeşitli C örneklerini bulabilirsiniz. Mümkün olduğunca her konudan örnek yapıp buraya koymayı planlıyorum. Örneklerin her birine ait bir kod bulunmaktadır. Hangi kodun hangi örneğe denk geldiğini aşağıda vermiş olduğum listeden görebilirsiniz. Kodların başındaki "A" harfi örneğin basit seviyede olduğunu, "B" harfi orta seviyede olduğunu ve "C" harfi ileri seviyede olduğunu göstermektedir. Her örneğin kendine ait "README" dosyası bulunmakta ve örnekle ilgili bilgileri içerisinde barındırmaktadır. Yine bu dosyada örneğin basit(:large_blue_circle:), orta(:yellow_circle:) veya ileri(:red_circle:) düzey olduğuna dair renkli uyarı işaretleri bulunmaktadır. Örneklerde gerek isimlendirmede, gerekse de boşluklarda kendi belirlediğim bir formata uyulmuştur ve tanımlayıcı isimleri ile yorumlar genellikle İngilizce olacakır.</p>
+<p>Burada <a href="https://www.mustafayemural.com">Kişisel Bloğum</a>'da paylaşmış olduğum çeşitli C örneklerini bulabilirsiniz. Mümkün olduğunca her konudan örnek yapıp buraya koymayı planlıyorum. Örnek isminde yer alan kodların anlamları:</p>
 
-<p>Örneklerle ilgili çeşitli notları her örneğin "README" sayfasının sonunda yer alan "Notlar" kısmında bulabilirsiniz.</p>
+- AXXXX: Örneğin basit seviyede olduğunu belirtir.
+- BXXXX: Örneğin orta seviyede olduğunu belirtir.
+- CXXXX: Örneğin ileri seviyede olduğunu belirtir.
+
+<p>Her örneğin kendine ait "README" dosyası bulunmakta ve örnekle ilgili bilgileri içerisinde barındırmaktadır. Örneklerle ilgili çeşitli notları her örneğin "README" sayfasının sonunda yer alan "Notlar" kısmında bulabilirsiniz. Bu dosyalardaki renk kodları ve anlamları:</p>
+
+- :large_blue_circle: : Basit Seviye
+- :yellow_circle: : Orta Seviye
+- :red_circle: : İleri Seviye
+
+<p>Örneklerde gerek isimlendirmede, gerekse de boşluklarda kendi belirlediğim bir formata uyulacaktır ve tanımlayıcı isimleri ile yorumlar için İngilizce dili kullanılacaktır.</p>
 
 # Basit Seviye Örnekler
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1000">A1000 : İlk C Programı (First C Program)</a>
