@@ -11,7 +11,7 @@
 - :yellow_circle: : Orta Seviye
 - :red_circle: : İleri Seviye
 
-<p>Örneklerde gerek isimlendirmede, gerekse de boşluklarda kendi belirlediğim bir formata uyulacaktır ve tanımlayıcı isimleri ile yorumlar için İngilizce dili kullanılacaktır.</p>
+<p>Örneklerde gerek isimlendirmede, gerekse de formatlamada kendi belirlediğim bir formata uyulacaktır ve tanımlayıcı isimleri ile yorumlar için İngilizce dili kullanılacaktır.</p>
 
 # Basit Seviye Örnekler
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1000">A1000 : İlk C Programı (First C Program)</a>
