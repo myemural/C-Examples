@@ -30,6 +30,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1013">A1013 : Bir Sayının Armstrong Sayısı Olup Olmadığını Kontrol Etme (Check Whether a Number is an Armstrong Number)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : Bir Tam Sayının Tersini Bulma (Finding Reverse of an Integer)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : Bir Harfin Ünlü veya Ünsüz Olup Olmadığını Kontrol Etme (Check Vowel or Consonant)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : Bir Sayının Asal Olup Olmadığını Kontrol Etme (Check Prime Number)</a>
 
 # Orta Seviye Örnekler
 - 
