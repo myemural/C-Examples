@@ -31,6 +31,7 @@
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1014">A1014 : Bir Tam Sayının Tersini Bulma (Finding Reverse of an Integer)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1015">A1015 : Bir Harfin Ünlü veya Ünsüz Olup Olmadığını Kontrol Etme (Check Vowel or Consonant)</a>
 - <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1016">A1016 : Bir Sayının Asal Olup Olmadığını Kontrol Etme (Check Prime Number)</a>
+- <a href="https://github.com/myemural/C-Examples/tree/master/Examples/A1017">A1017 : İkilik Tabandaki Bir Sayıyı Onluk Tabana Çevirme (Convert Binary Number to Decimal)</a>
 
 # Orta Seviye Örnekler
 - 
